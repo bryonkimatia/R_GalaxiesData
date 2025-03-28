@@ -61,3 +61,5 @@ Well-BeingIndex = 0.142 + (0.07184 * Education Index) - (0.0008711 * Unemploymen
 Using the validation dataset, the above model was used to predict the future Well-Being Index. The prediction had 720 variables with columns with missing values leading to NA values of the future Well-Being Index.
 
 The prediction analysis report is as shown here: https://drive.google.com/file/d/1RnV3tuGxioVlT31ig-cPnEFILYYjfsYk/view?usp=sharing
+
+The predicted well-being index values: https://docs.google.com/spreadsheets/d/1kH8fyYdLEfR2eapOg-y7RPLm_8ao0Z3g/edit?usp=sharing&ouid=100119395011002891015&rtpof=true&sd=true
