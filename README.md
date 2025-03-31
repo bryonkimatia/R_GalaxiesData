@@ -8,7 +8,7 @@ In determining what makes the galaxies better off, we’d like to determine:
 #
 • The future well-being values of the galaxies
 ## Analysis
-In my analysis of the train data, I used R programming to determine the determinants of the galaxies’ well-being i.e. a positive and negative correlation between the variables and wellbeing index or no correlation. Further, through the visualisation, I determine the type of frequency distribution curve the determinants exhibited i.e. normal distribution, right skewed and left skewed.
+In my analysis of the train data, I used R programming to determine the determinants of the galaxies’ well-being i.e. a positive and negative correlation between the variables and wellbeing index or no correlation. Further, through the visualisation, I determined the type of frequency distribution curve the determinants exhibited i.e. normal distribution, right skewed and left skewed.
 The following variables exhibited a positive correlation with respect to the wellbeing index:
 # 
 • Income Index.
